@@ -1,0 +1,58 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+autopct	../piegraph.py	/^           autopct='%1.1f%%')$/;"	kind:variable	line:22
+bar_width	../barchart.py	/^bar_width = .2$/;"	kind:variable	line:6
+barchart.py	../barchart.py	1;"	kind:file	line:1
+c1	../barchart.py	/^c1 = plt.bar(index + 0.1, canada_scores,$/;"	kind:variable	line:15
+canada_scores	../barchart.py	/^canada_scores = (518, 523, 525)$/;"	kind:variable	line:8
+ch1	../barchart.py	/^ch1 = plt.bar(index + 0.2, china_scores,$/;"	kind:variable	line:17
+china_scores	../barchart.py	/^china_scores = (613, 570, 580)$/;"	kind:variable	line:9
+col_count	../barchart.py	/^col_count = 3$/;"	kind:variable	line:5
+color	../piegraph.py	/^color = [(1, .4, .4), (1, .6, 1), (.5, .3, .7), (.2, .5, .1), (.4, .4, 1)]$/;"	kind:variable	line:17
+colors	../piegraph.py	/^           colors=color,$/;"	kind:variable	line:21
+deaths	../linegraph.py	/^deaths = [1.2, 1.4, 1.2, 3.6, 2.4, 1.1, .9, .7, .6, .5, .4, .3, .25, .25]$/;"	kind:variable	line:9
+df	../piegraph.py	/^df = pd.DataFrame(raw_data, columns=[$/;"	kind:variable	line:12
+epylint	../venv/bin/epylint	1;"	kind:file	line:1
+f1	../barchart.py	/^f1 = plt.bar(index + 0.3, france_scores,$/;"	kind:variable	line:19
+france_scores	../barchart.py	/^france_scores = (495, 505, 499)$/;"	kind:variable	line:10
+index	../barchart.py	/^index = np.arange(col_count)$/;"	kind:variable	line:12
+isort	../venv/bin/isort	1;"	kind:file	line:1
+k1	../barchart.py	/^k1 = plt.bar(index, korea_scores, bar_width,$/;"	kind:variable	line:13
+korea_scores	../barchart.py	/^korea_scores = (554, 536, 538)$/;"	kind:variable	line:7
+labels	../piegraph.py	/^           labels=df['names'],$/;"	kind:variable	line:20
+linegraph.py	../linegraph.py	1;"	kind:file	line:1
+lines	../linegraph.py	/^lines = ply.plot(years, pops, years, death)$/;"	kind:variable	line:12
+main	../venv/bin/isort	/^from isort.main import main$/;"	kind:namespace	line:7
+matplotlib	../barchart.py	/^import matplotlib.pyplot as plt$/;"	kind:namespace	line:1
+matplotlib	../linegraph.py	/^import matplotlib.pyplot as plt$/;"	kind:namespace	line:1
+matplotlib	../piegraph.py	/^import matplotlib.pyplot as pyplot$/;"	kind:namespace	line:1
+np	../barchart.py	/^import numpy as np$/;"	kind:namespace	line:2
+pd	../piegraph.py	/^import pandas as pd$/;"	kind:namespace	line:2
+piegraph.py	../piegraph.py	1;"	kind:file	line:1
+plt	../barchart.py	/^import matplotlib.pyplot as plt$/;"	kind:namespace	line:1
+plt	../linegraph.py	/^import matplotlib.pyplot as plt$/;"	kind:namespace	line:1
+pops	../linegraph.py	/^pops = [2.750, 2.588, 3.018,$/;"	kind:variable	line:6
+pylint	../venv/bin/pylint	1;"	kind:file	line:1
+pyplot	../piegraph.py	/^import matplotlib.pyplot as pyplot$/;"	kind:namespace	line:1
+pyreverse	../venv/bin/pyreverse	1;"	kind:file	line:1
+raw_data	../piegraph.py	/^raw_data = {$/;"	kind:variable	line:4
+re	../venv/bin/epylint	/^import re$/;"	kind:namespace	line:4
+re	../venv/bin/isort	/^import re$/;"	kind:namespace	line:4
+re	../venv/bin/pylint	/^import re$/;"	kind:namespace	line:4
+re	../venv/bin/pyreverse	/^import re$/;"	kind:namespace	line:4
+re	../venv/bin/symilar	/^import re$/;"	kind:namespace	line:4
+run_epylint	../venv/bin/epylint	/^from pylint import run_epylint$/;"	kind:namespace	line:7
+run_pylint	../venv/bin/pylint	/^from pylint import run_pylint$/;"	kind:namespace	line:7
+run_pyreverse	../venv/bin/pyreverse	/^from pylint import run_pyreverse$/;"	kind:namespace	line:7
+run_symilar	../venv/bin/symilar	/^from pylint import run_symilar$/;"	kind:namespace	line:7
+symilar	../venv/bin/symilar	1;"	kind:file	line:1
+sys	../venv/bin/epylint	/^import sys$/;"	kind:namespace	line:5
+sys	../venv/bin/isort	/^import sys$/;"	kind:namespace	line:5
+sys	../venv/bin/pylint	/^import sys$/;"	kind:namespace	line:5
+sys	../venv/bin/pyreverse	/^import sys$/;"	kind:namespace	line:5
+sys	../venv/bin/symilar	/^import sys$/;"	kind:namespace	line:5
+years	../linegraph.py	/^years = [1950, 1955,$/;"	kind:variable	line:3
